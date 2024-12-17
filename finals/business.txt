@@ -1,0 +1,10 @@
+Passenger Name : Karl 
+Seatnumber : 321 
+Class : business
+Trip_type : one-way 
+Time booked : 2024-12-15 13:48:01
+Departure: manila
+Destination : bangkok
+Flight Day : 12/31/2024 
+Return : None
+

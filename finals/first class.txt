@@ -1,0 +1,21 @@
+Passenger Name : Tim 
+Seatnumber : 321 
+Class : first class
+Trip_type : one-way 
+Time booked : 2024-12-15 13:48:48
+Departure: manila
+Destination : bangkok
+Flight Day : 12/31/2024 
+Return : None
+
+Passenger Name : j 
+Seatnumber : 123 
+Class : first class
+Trip_type : round-trip 
+Time booked : 2024-12-16 10:05:00
+Departure: manila
+Destination : tokyo
+Flight Day : 12/22/24 
+Return : 12/31/24
+Flight_number : flight123
+
